@@ -6,3 +6,4 @@ fifth modify.
 sixth modify.
 seventh
 eighth
+Creating a new branch is quick AND simple
